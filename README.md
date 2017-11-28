@@ -3,9 +3,6 @@ Universal rendering component for Izyware
 
 ## INSTALLATION
 
-
-
-
 If you are using npm (the Node.js package manager) always ensure that your npm is up-to-date by running:
 
 `npm update -g npm`  
